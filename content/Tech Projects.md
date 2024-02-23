@@ -1,0 +1,6 @@
+[[247Server]]
+- [[NixOS]]
+- [[Immich]]
+- [[Nextcloud]]
+[[Streaming]]
+- [[Creating OBS visuals]]
