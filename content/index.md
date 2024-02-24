@@ -4,6 +4,7 @@ title: Welcome to Quartz
 [[Recipes]]
 [[Tech Projects]]
 [[Video Projects]]
+[[Design]]
 
 
 What is this website for? 
