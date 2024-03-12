@@ -1,4 +1,9 @@
+---
+publish: "true"
+---
+
 # Posters
+l
 
 
 | ![[Fest_oct_2023_insta.png\|100]] |     |

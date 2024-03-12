@@ -1,5 +1,6 @@
 I cook vegan food. Here are a few recipes:
 
+[[new recipe]]
 # Daily eats
 [[Channa Masala]]
 [[Ikea Meatballs]]
