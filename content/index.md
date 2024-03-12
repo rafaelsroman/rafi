@@ -22,7 +22,7 @@ What is this website for?
 
 
 
->[!info] Recently Edited
+>[!info] 
 >![[Recently edited]]
 
 
