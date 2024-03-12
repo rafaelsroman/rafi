@@ -7,11 +7,11 @@ const openPublishPanel = app.commands.commands["publish:view-changes"].callback;
 const fileAndQuery = new Map([
   [
     "Recently edited",
-    'TABLE WITHOUT ID file.link AS Note, dateformat(file.mtime, "dd.MM.yyyy - HH:mm:ss") AS "Last modified" FROM "" AND 
-
-!"-hide" WHERE publish = true SORT file.mtime DESC LIMIT 7 ',
+    'TABLE WITHOUT ID file.link AS Note, dateformat(file.mtime, "dd.MM.yyyy - HH:mm:ss") AS "Last modified" FROM "" AND !"-hide" WHERE publish = true SORT file.mtime DESC LIMIT 7 ',
   ],
   [
+
+
     "Recent new files",
     'TABLE WITHOUT ID file.link AS Note, dateformat(file.ctime, "DD") AS Added FROM "" WHERE publish SORT file.ctime desc LIMIT 7',
   ],
