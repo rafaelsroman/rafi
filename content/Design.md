@@ -3,8 +3,8 @@ publish: true
 ---
 
 # Posters
-l
-new info
+
+
 
 | ![[Fest_oct_2023_insta.png\|100]] |     |
 | --------------------------------- | --- |
