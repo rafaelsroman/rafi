@@ -8,6 +8,7 @@ title: Welcome to Quartz
 [[Recipes]]
 
 Hopefully this sentence will appear on the website. If not, something is wrong with the uploading. 
+changes
 
 [[Tech Projects]]
 [[Video Projects]]
