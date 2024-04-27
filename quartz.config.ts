@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Rafael S. Roman",
+    pageTitle: "Happy Video",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -22,14 +22,14 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#00ffee",
-          lightgray: "#f9b2ff",
-          gray: "#adadad",
-          darkgray: "#004c47",
-          dark: "#ffee00",
+          light: "#074c48",
+          lightgray: "#a23fa9",
+          gray: "#646464",
+          darkgray: "#cbcbcb",
+          dark: "#ebebec",
           secondary: "#ffee00",
-          tertiary: "#f8e700",
-          highlight: "rgba(98, 70, 100, 0.80)",
+          tertiary: "#e0d100",
+          highlight: "rgba(234, 87, 246, 0.80)",
         },
         darkMode: {
           light: "#074c48",
