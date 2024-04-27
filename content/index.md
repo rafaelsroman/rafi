@@ -4,6 +4,9 @@ title: Happy Video
 ## Leidenschaftliche Erstellung von qualitativ hochwertigen Videos, hier bist du richtig!
 [[index en|english version]]
 
+Schau dir zum Anfang dieses Video an:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yl5NogJOJLs?si=qUEvQIu6E_U7iuC-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 >[!hint] Warum Video? 
 >In der heutigen digitalen Zeit ist Videoinhalte mehr als nur ein Trend - es ist eine effektive Möglichkeit, die Geschichte deiner Marke zu kommunizieren, deinen Angebot zu erklären und Beziehungen zu deinen Kunden und Interessenten aufzubauen.
 
