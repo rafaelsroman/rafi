@@ -1,35 +1,33 @@
 ---
 title: Happy Video
 ---
-Welcome to my world of video production! I’m Rafael, and I’m passionate about creating high-quality videos.
+## Willkommen in meiner Welt der Videoproduktion! Ich bin Rafael und ich habe eine Leidenschaft für die Erstellung von qualitativ hochwertigen Videos.
+[[index en|english version]]
 
->[!hint] Why video? 
->In today’s digital age, video content is more than just a trend - it’s an effective way to communicate your brand’s story, explain your value proposition, and build relationships with your customers and prospects.
+>[!hint] Warum Video? 
+>In der heutigen digitalen Zeit ist Videoinhalte mehr als nur ein Trend - es ist eine effektive Möglichkeit, die Geschichte Ihrer Marke zu kommunizieren, Ihren Wertvorschlag zu erklären und Beziehungen zu Ihren Kunden und Interessenten aufzubauen.
 
- Whether it’s through **image films** that encapsulate your brand’s identity, **food videos** that showcase your culinary expertise, or engaging **reels**, that capture attention and offer a quick and engaging snapshot of what you do, **_I’m here to help you connect with your audience in a visually compelling way_**. I can help you leverage the power of video to make a lasting impact.
- 
-Did I wake some interest? [[#Lets talk|Lets get in touch!]] or look at some results below. 
+Ob es sich um **Imagefilme** handelt, die die Identität Ihrer Marke verkörpern, **Essensvideos**, die Ihre kulinarische Expertise zur Schau stellen, oder ansprechende **Reels**, die Aufmerksamkeit erregen und einen schnellen und ansprechenden Überblick über das bieten, was Sie tun, **_Ich bin hier, um Ihnen zu helfen, auf visuell ansprechende Weise mit Ihrem Publikum in Verbindung zu treten_**. Ich kann Ihnen helfen, die Kraft des Videos zu nutzen, um einen bleibenden Eindruck zu hinterlassen.
+
+Habe ich Ihr Interesse geweckt? [[#Lass uns plaudern| Melde dich bei mir]] oder schauen Sie sich einige Ergebnisse unten an.
 
 # Results
 
-| <iframe width="560" height="315" src="https://www.youtube.com/embed/ZlhyLA9oDCs?si=SlPMOP0qqz5CNqu9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>**Camera Man (part of team)**                                              | <iframe width="560" height="315" src="https://www.youtube.com/embed/EhNHeKsGF_Q?si=0GtQ1zEdVAgKKnw5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>**Produced by me** |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <iframe width="560" height="315" src="https://www.youtube.com/embed/rZ5-jA8WaPo?si=0KHAFthxWY1LtgiK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>**Produced by me**        | <iframe width="560" height="315" src="https://www.youtube.com/embed/76ZNlMCjaKI?si=nWTUx6RXWs2HYqiX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>**Produced by me** |
-| <iframe width="560" height="315" src="https://www.youtube.com/embed/Z62GneyQD80?si=KT_DMHfP4uvINcgO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>**Camera Man (part of team)** | <iframe width="560" height="315" src="https://www.youtube.com/embed/aMCSRtWn7AE?si=jdJa7cwl6whbG-Te" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>**Produced by me** |
-|                                                                                                                                                                                                                                                                                                                                                                       | <iframe width="560" height="315" src="https://www.youtube.com/embed/ZhEhOOqDaXY?si=GZ4T6ju3wCbTRDIN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>**Produced by me** |
+![[Results]]
 
-# My toolkit 
-My commitment to quality is reflected in my choice of gear, which I’ve carefully selected after extensive research to ensure the best image quality for your projects. I invite you to explore more about my [[gear]] and join me in creating content that not only looks great but also resonates with your audience and drives your business forward!
+# Mein Toolkit 
+Mein Engagement für Qualität spiegelt sich in meiner Auswahl an Ausrüstung wider, die ich nach umfangreicher Recherche sorgfältig ausgewählt habe, um die beste Bildqualität für Ihre Projekte zu gewährleisten. Ich lade Sie ein, mehr über meine [[gear|Ausrüstung]] zu erfahren und sich mir anzuschließen, um Inhalte zu erstellen, die nicht nur großartig aussehen, sondern auch mit Ihrem Publikum resonieren und Ihr Geschäft vorantreiben!
+<br>
 ![[360camwebsite-ezgif.com-optimize.gif]]
 
-# Lets talk
->[!hint] Contact me!
->**Contact me** at office@rafaelsroman.com or via phone/WhatsApp at +43 6605521080. Lets meet for a tea and discuss potential projects. If I don't pick up the phone, please shoot me a message. 
-# Who is behind this?  
-Hello, my name is **Rafael**. My passion for video and photography was kindled in my childhood, growing up with my father's camera always within reach. This early exposure sparked my interest and led me to use my the first money I earned to pick up a camera at the age of 16.
+# Lass uns plaudern
+>[!hint] Kontaktier mich!
+> unter office@rafaelsroman.com oder per Telefon/WhatsApp unter +43 6605521080. Lassen Sie uns für einen Tee treffen und mögliche Projekte besprechen. Wenn ich das Telefon nicht abnehme, bitte schicken Sie mir eine Nachricht.
+# Wer steckt dahinter?
+Hallo, mein Name ist **Rafael**. Meine Leidenschaft für Video und Fotografie wurde in meiner Kindheit geweckt, als die Kamera meines Vaters immer in Reichweite war. Diese frühe Exposition weckte mein Interesse und führte dazu, dass ich das erste Geld, das ich verdiente, dazu verwendete, mit 16 Jahren eine Kamera zu kaufen.
 
-Initially, I delved into the world of photography, where I've had the privilege of shooting cover images for a magazine. From there I moved onto events. My love for capturing moments also led me to become a concert and festival photographer, immortalizing the energy and vibrancy of these events through my lens.
+Zunächst tauchte ich in die Welt der Fotografie ein, wo ich das Privileg hatte, Covers für ein Magazin zu fotografieren. Von dort aus ging ich zu Events über. Meine Liebe zum Einfangen von Momenten führte mich auch dazu, Konzert- und Festival-Fotograf zu werden und die Energie und Lebendigkeit dieser Veranstaltungen durch meine Linse zu verewigen.
 
-Three years ago, I decided to expand my creative horizons and ventured into the realm of videography. Today, I specialize in creating engaging image and food videos, as well as crafting compelling aftermovies for festivals. Each project is a new opportunity for me to bring stories to life through the lens of my camera.
+Vor drei Jahren beschloss ich, meinen kreativen Horizont zu erweitern und wagte mich in den Bereich der Videografie. Heute spezialisiere ich mich auf die Erstellung von ansprechenden Image- und Essensvideos sowie auf die Erstellung von überzeugenden Aftermovies für Festivals. Jedes Projekt ist für mich eine neue Gelegenheit, Geschichten durch die Linse meiner Kamera zum Leben zu erwecken.
 
 ![[Pasted image 20240427204630.png|200]]
