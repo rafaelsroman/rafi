@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Happy Video",
+    pageTitle: "Rigies",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -22,24 +22,24 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#074c48",
-          lightgray: "#a23fa9",
+          light: "#ffffff",
+          lightgray: "#2d5b562b",
           gray: "#646464",
-          darkgray: "#cbcbcb",
-          dark: "#ebebec",
-          secondary: "#ffee00",
-          tertiary: "#e0d100",
-          highlight: "rgba(234, 87, 246, 0.80)",
+          darkgray: "#000000bf",
+          dark: "#000000",
+          secondary: "#00ffc9",
+          tertiary: "#00ff87",
+          highlight: "#888888",
         },
         darkMode: {
-          light: "#074c48",
-          lightgray: "#a23fa9",
+          light: "#ffffff",
+          lightgray: "#2d5b562b",
           gray: "#646464",
-          darkgray: "#cbcbcb",
-          dark: "#ebebec",
-          secondary: "#ffee00",
-          tertiary: "#e0d100",
-          highlight: "rgba(234, 87, 246, 0.80)",
+          darkgray: "#000000bf",
+          dark: "#000000",
+          secondary: "#00ffc9",
+          tertiary: "#00ff87",
+          highlight: "#888888",
         },
       },
     },

@@ -1,11 +1,11 @@
 ---
-title: Happy Video
+title: Rigies
 ---
-## Leidenschaftliche Erstellung von qualitativ hochwertigen Videos, hier bist du richtig!
-[[index en|english version]]
+Custom designed camera rigging parts, made in Vienna with love. 
 
-Schau dir zum Anfang dieses Video an:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Yl5NogJOJLs?si=qUEvQIu6E_U7iuC-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+# Driff
+:= **D** + **Griff** (/ɡrɪf/) _(ger: Grip)_ 
+as it is a D shaped grip
 
 >[!hint] Warum Video? 
 >In der heutigen digitalen Zeit ist Videoinhalte mehr als nur ein Trend - es ist eine effektive Möglichkeit, die Geschichte deiner Marke zu kommunizieren, deinen Angebot zu erklären und Beziehungen zu deinen Kunden und Interessenten aufzubauen.
@@ -36,4 +36,6 @@ Zunächst tauchte ich in die Welt der Fotografie ein, wo ich das Privileg hatte,
 
 Vor drei Jahren beschloss ich, meinen kreativen Horizont zu erweitern und wagte mich in den Bereich der Videografie. Heute spezialisiere ich mich auf die Erstellung von ansprechenden Image- und Essensvideos sowie auf die Erstellung von überzeugenden Aftermovies für Festivals. Jedes Projekt ist für mich eine neue Gelegenheit, Geschichten durch die Linse meiner Kamera zum Leben zu erwecken.
 
+# LIDARod 
 
+# 
