@@ -12,7 +12,7 @@ Schau dir zum Anfang dieses Video an:
 
 Ob es sich um **Imagefilme** handelt, die die Identität deiner Marke verkörpern, **Essensvideos**, die deine kulinarische Expertise zur Schau stellen, oder ansprechende **Reels**, die Aufmerksamkeit erregen und einen schnellen und ansprechenden Überblick über das bieten, was du tust. **_Ich bin hier, um dir zu helfen, auf visuell ansprechende Weise mit deinem Publikum in Verbindung zu treten_**. Ich kann dir helfen, die Kraft des Videos zu nutzen, um einen bleibenden Eindruck zu hinterlassen.
 
-Habe ich dein Interesse geweckt? [[#Lass uns plaudern| Meld dich bei mir]] oder schau dir einige Ergebnisse an.
+Habe ich dein Interesse geweckt? [[#Lass uns plaudern|Meld dich bei mir]] oder schau dir einige Ergebnisse an.
 
 # Results
 
@@ -25,11 +25,12 @@ Mein Engagement für Qualität spiegelt sich in meiner Auswahl an Ausrüstung wi
 
 # Lass uns plaudern
 >[!hint] Kontaktier mich!
-> unter office@rafaelsroman.com oder per Telefon/WhatsApp unter +43 6605521080. Gehen wir auf einen Tee um mögliche Projekte besprechen. 
+>Kontaktier mich unter office@rafaelsroman.com oder per Telefon/WhatsApp unter +43 6605521080. Gehen wir auf einen Tee um mögliche Projekte besprechen. 
 > Wenn ich das Telefon nicht abnehme, bitte schick mir eine Nachricht.
 # Wer steckt dahinter?
 ![[Pasted image 20240427204630.png|200]]
-Hallo, mein Name ist **Rafael**. Meine Leidenschaft für Video und Fotografie wurde in meiner Kindheit geweckt, als die Kamera meines Vaters immer in Reichweite war. Diese frühe Exposition weckte mein Interesse und führte dazu, dass ich das erste Geld, das ich verdiente, dazu verwendete, mit 16 Jahren eine Kamera zu kaufen.
+
+Mein Name ist _Rafael S. Roman_. Die Leidenschaft für Video und Fotografie wurde in meiner Kindheit geweckt, als die Kamera meines Vaters immer in Reichweite war. Diese frühe Exposition weckte mein Interesse und führte dazu, dass ich das erste Geld, das ich verdiente, dazu verwendete, mit 16 Jahren eine Kamera zu kaufen.
 
 Zunächst tauchte ich in die Welt der Fotografie ein, wo ich das Privileg hatte, Covers für ein Magazin zu fotografieren. Von dort aus ging ich zu Events über. Meine Liebe zum Einfangen von Momenten führte mich auch dazu, Konzert- und Festival-Fotograf zu werden und die Energie und Lebendigkeit dieser Veranstaltungen durch meine Linse zu verewigen.
 
